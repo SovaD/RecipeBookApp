@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="imagefood">imageFood</string>
+    <string name="on_failure">Failed Get Data</string>
+    <string name="image">image</string>
+    <string name="id">1234</string>
+    <string name="remove_bookmark">Remove From Bookmark</string>
+    <string name="add_bookmark">Add To Bookmark</string>
+    <string name="empty_bookmark">Empty Bookmark</string>
+    <string name="recently_viewed">Recent</string>
+    <string name="search">Search</string>
+    <string name="no_data">No Results Found</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="category">Category</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="empty_recent">Empty Recent</string>
+    <string name="clear">Clear All</string>
+    <string name="clear_recent">Clear Recent Success</string>
+    <string name="watch_video_tutorial">Watch Video Tutorial</string>
+</resources>
